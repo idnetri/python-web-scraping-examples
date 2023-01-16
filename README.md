@@ -1,1 +1,1 @@
-# Python-Web-Scrapping-Examples
+# Python-Web-Scraping-Examples
